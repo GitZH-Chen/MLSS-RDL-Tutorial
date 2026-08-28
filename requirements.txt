@@ -1,0 +1,5 @@
+numpy
+matplotlib
+scipy
+torch
+geoopt==0.5.1
