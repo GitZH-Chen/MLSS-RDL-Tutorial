@@ -1,0 +1,25 @@
+\documentclass[border=8pt]{standalone}
+\usepackage{amsmath,amssymb,booktabs}
+
+\begin{document}
+\renewcommand{\arraystretch}{1.3}
+\setlength{\tabcolsep}{10pt}
+\begin{tabular}{lll}
+\toprule
+Notion & Euclidean $\mathbb{R}^{n}$ & Hyperbolic $\mathcal{H}^{n}_{K}$ \\
+\midrule
+Inner product
+& $\left\langle v,x\right\rangle$
+& $-B^{v}(x)$ \\
+Hyperplane
+& $\widetilde{H}^{v}_{\tau}=\left\{x\in\mathbb{R}^{n}\mid\left\langle x,v\right\rangle=\tau\right\}$
+& $H^{v}_{\tau}=\left\{x\in\mathcal{H}^{n}_{K}\mid B^{v}(x)=\tau\right\}$ \\
+Parallel hyperplanes
+& Parallel $\left\{\widetilde{H}^{v}_{\tau}\right\}_{\tau}$ for fixed $v$
+& Equidistant $\left\{H^{v}_{\tau}\right\}_{\tau}$ for fixed $v$ \\
+Logit $u_k(x)$
+& $\alpha_k\left\langle v_k,x\right\rangle+b_k$
+& $-\alpha_kB^{v_k}(x)+b_k$ \\
+\bottomrule
+\end{tabular}
+\end{document}
