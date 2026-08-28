@@ -7,6 +7,7 @@ Each activity opens directly in Google Colab and runs independently.
 |---|---|---|
 | 1. Visualizing LieBN | [`01_BN_Visualization.ipynb`](01_BN_Visualization.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/01_BN_Visualization.ipynb) |
 | 2. Horospheres and a two-layer HBNN | [`02_Two_Layer_HBNN.ipynb`](02_Two_Layer_HBNN.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/02_Two_Layer_HBNN.ipynb) |
+| 3. ResNet-18 with a Poincaré BMLR head | [`03_ResNet18_Poincare_BMLR_MNIST.ipynb`](03_ResNet18_Poincare_BMLR_MNIST.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/03_ResNet18_Poincare_BMLR_MNIST.ipynb) |
 
 ## How to use the notebooks
 
@@ -18,6 +19,8 @@ Each activity opens directly in Google Colab and runs independently.
 Each participant receives an independent Colab runtime. The notebooks install
 or download the dependencies they need and do not require a local checkout of
 this repository.
+
+Activity 3 is designed for a GPU runtime; the other activities also run on CPU.
 
 ## Local use
 
