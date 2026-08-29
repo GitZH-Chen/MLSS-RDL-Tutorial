@@ -10,7 +10,7 @@ The live session focuses on the following two activities:
 
 ## Optional activity
 
-The Riemannian batch normalization notebook is provided as optional material.
+The Riemannian batch normalization notebook is provided as optional material for self-study.
 | Activity | Notebook | Launch |
 |---|---|---|
 | Visualizing LieBN | [`Optional_LieBN_Visualization.ipynb`](Optional_LieBN_Visualization.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/Optional_LieBN_Visualization.ipynb) |
@@ -21,10 +21,6 @@ The Riemannian batch normalization notebook is provided as optional material.
 2. Sign in to Google if Colab asks you to do so.
 3. Select **Runtime → Run all**.
 4. To keep your changes, select **File → Save a copy in Drive**.
-
-Each participant receives an independent Colab runtime. The notebooks install
-or download the dependencies they need and do not require a local checkout of
-this repository.
 
 Activity 2 is designed for a GPU runtime; Activity 1 and the optional LieBN activity also run on CPU.
 
