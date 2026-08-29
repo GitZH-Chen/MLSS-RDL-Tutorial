@@ -22,6 +22,8 @@ The Riemannian batch normalization notebook is provided as optional material for
 3. Select **Runtime → Run all**.
 4. To keep your changes, select **File → Save a copy in Drive**.
 
+Each participant receives an independent Colab runtime. The notebooks install or download the dependencies they need and do not require a local checkout of this repository.
+
 Activity 2 is designed for a GPU runtime; Activity 1 and the optional LieBN activity also run on CPU.
 
 ## Local use
