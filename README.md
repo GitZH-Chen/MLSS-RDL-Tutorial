@@ -1,7 +1,7 @@
 # MLSS 2026 Riemannian Deep Learning Tutorial
 
 Hands-on notebooks for the MLSS 2026 tutorial on Riemannian deep learning.
-The 30-minute live session focuses on the following two activities, in order.
+The live session focuses on the following two activities:
 
 | Activity | Notebook | Launch |
 |---|---|---|
@@ -10,7 +10,7 @@ The 30-minute live session focuses on the following two activities, in order.
 
 ## Optional activity
 
-The LieBN notebook is an independent extension for participants to explore after the live session.
+The Riemannian batch normalization activity is left as an exercise.
 
 | Activity | Notebook | Launch |
 |---|---|---|
