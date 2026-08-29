@@ -1,13 +1,20 @@
 # MLSS 2026 Riemannian Deep Learning Tutorial
 
 Hands-on notebooks for the MLSS 2026 tutorial on Riemannian deep learning.
-Each activity opens directly in Google Colab and runs independently.
+The 30-minute live session focuses on the following two activities, in order.
 
 | Activity | Notebook | Launch |
 |---|---|---|
-| 1. Visualizing LieBN | [`01_BN_Visualization.ipynb`](01_BN_Visualization.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/01_BN_Visualization.ipynb) |
-| 2. Horospheres and a two-layer HBNN | [`02_Two_Layer_HBNN.ipynb`](02_Two_Layer_HBNN.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/02_Two_Layer_HBNN.ipynb) |
-| 3. ResNet-18 with a Poincaré BMLR head | [`03_ResNet18_Poincare_BMLR_MNIST.ipynb`](03_ResNet18_Poincare_BMLR_MNIST.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/03_ResNet18_Poincare_BMLR_MNIST.ipynb) |
+| 1. Hyperbolic trees, horospheres, and a two-layer HBNN | [`01_Two_Layer_HBNN.ipynb`](01_Two_Layer_HBNN.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/01_Two_Layer_HBNN.ipynb) |
+| 2. ResNet-18 with a Poincaré BMLR head | [`02_ResNet18_Poincare_BMLR_MNIST.ipynb`](02_ResNet18_Poincare_BMLR_MNIST.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/02_ResNet18_Poincare_BMLR_MNIST.ipynb) |
+
+## Optional activity
+
+The LieBN notebook is an independent extension for participants to explore after the live session.
+
+| Activity | Notebook | Launch |
+|---|---|---|
+| Visualizing LieBN | [`Optional_LieBN_Visualization.ipynb`](Optional_LieBN_Visualization.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/Optional_LieBN_Visualization.ipynb) |
 
 ## How to use the notebooks
 
@@ -20,7 +27,7 @@ Each participant receives an independent Colab runtime. The notebooks install
 or download the dependencies they need and do not require a local checkout of
 this repository.
 
-Activity 3 is designed for a GPU runtime; the other activities also run on CPU.
+Activity 2 is designed for a GPU runtime; Activity 1 and the optional LieBN activity also run on CPU.
 
 ## Local use
 
