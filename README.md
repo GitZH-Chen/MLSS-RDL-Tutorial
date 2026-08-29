@@ -10,8 +10,7 @@ The live session focuses on the following two activities:
 
 ## Optional activity
 
-The Riemannian batch normalization activity is left as an exercise.
-
+The Riemannian batch normalization notebook is provided as optional material.
 | Activity | Notebook | Launch |
 |---|---|---|
 | Visualizing LieBN | [`Optional_LieBN_Visualization.ipynb`](Optional_LieBN_Visualization.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitZH-Chen/MLSS-RDL-Tutorial/blob/main/Optional_LieBN_Visualization.ipynb) |
